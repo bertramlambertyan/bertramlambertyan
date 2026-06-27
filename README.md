@@ -24,6 +24,7 @@ My goal is to design reliable, maintainable, and human-centered platforms for in
 - **Industrial IoT Integration Lab** — Modbus, OPC UA, MQTT and edge computing examples. *(Planned)*
 - **BerYa Platform Architecture** — SaaS and edge-to-cloud architecture notes. *(Planned)*
 - **Go + Nuxt SaaS Template** — Full-stack application structure. *(Planned)*
+- **[Lambert Lab](https://github.com/bertramlambertyan/lambert-lab/blob/main/README.md)** - Personal engineering lab for industrial automation, cloud-ready platforms, and AI-assisted workflows.
 
 ## Tech Stack
 
