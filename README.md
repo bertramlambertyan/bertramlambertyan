@@ -25,6 +25,7 @@ My goal is to design reliable, maintainable, and human-centered platforms for in
 - **BerYa Platform Architecture** — SaaS and edge-to-cloud architecture notes. *(Planned)*
 - **Go + Nuxt SaaS Template** — Full-stack application structure. *(Planned)*
 - **[Lambert Lab](https://github.com/bertramlambertyan/lambert-lab/blob/main/README.md)** - Personal engineering lab for industrial automation, cloud-ready platforms, and AI-assisted workflows.
+- **BerYa Platform Architecture** — Architecture notes and experiments for cloud-ready platforms, AI workflows, and industrial edge-to-cloud systems.
 
 ## Tech Stack
 
