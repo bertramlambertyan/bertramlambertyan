@@ -20,12 +20,13 @@ My goal is to design reliable, maintainable, and human-centered platforms for in
 
 ## Selected Projects
 
-- **BerYa Trip** — Travel planning platform built with Nuxt. *(In progress)*
-- **Industrial IoT Integration Lab** — Modbus, OPC UA, MQTT and edge computing examples. *(Planned)*
-- **BerYa Platform Architecture** — SaaS and edge-to-cloud architecture notes. *(Planned)*
-- **Go + Nuxt SaaS Template** — Full-stack application structure. *(Planned)*
-- **[Lambert Lab](https://github.com/bertramlambertyan/lambert-lab/blob/main/README.md)** - Personal engineering lab for industrial automation, cloud-ready platforms, and AI-assisted workflows.
+## Selected Projects
+
+- **[Lambert Lab](https://github.com/bertramlambertyan/lambert-lab)** — Personal engineering lab for industrial automation, cloud-ready platforms, and AI-assisted workflows.
 - **[BerYa Platform Architecture](https://github.com/bertramlambertyan/berya-platform-architecture)** — Architecture notes and experiments for cloud-ready platforms, AI workflows, and industrial edge-to-cloud systems.
+- **[Industrial IoT Integration Lab](https://github.com/bertramlambertyan/industrial-iot-integration-lab)** — Practical notes and experiments for industrial communication, field device integration, edge computing, and OT/IT integration.
+- **BerYa Trip** — Travel planning platform built with Nuxt. *(In progress)*
+- **Go + Nuxt SaaS Template** — Full-stack application structure. *(Planned)*
 
 ## Tech Stack
 
